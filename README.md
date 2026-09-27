@@ -1,6 +1,6 @@
 # Site Cloner Agent
 
-![Architecture](docs/pipeline-architecture.png)
+![Architecture]([docs/pipeline-architecture.png](https://github.com/UzairBI/Site-cloning-agent/blob/main/Architecture%20Diagram.png))
 
 An AI agent that takes a public website URL, analyzes the rendered page, and generates a **new** responsive
 **Next.js 15 + TypeScript + Tailwind CSS v4** frontend that recreates it. The agent validates and repairs its own
